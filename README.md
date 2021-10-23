@@ -1,20 +1,5 @@
-# Journaloid
-A [Github Pages](https://pages.github.com)-[Jekyll](https://jekyllrb.com) theme using [utterances](https://utteranc.es). Shared by [@oxmhpark](https://github.com/oxmhpark).
+# 링크 | exonomicon.net
 
-## Installation
-1. Fork this repository.
-2. Edit `_config.yml` file.
-    - Don't forget the `utterances` section if you are using comment system.
-3. Follow rest installation steps of Github Pages.
-4. Done.
+> <>
 
-## Site Level Customizations
-- `_config.yml > author : string` -- If not empty, *author* field appears in the `post` layout.
-- `_includes/nav.html` -- Contains navigation links.
-
-## Post Level Customizations
-- `last_modified_at : Y-m-d` -- If not empty, *updated* field appears in the `post` layout. 
-- `comments : bool` -- Determines printing comments and commenting form.
-
-## Examples
-- [Journaloid Demo](https://oxmhpark.github.io/jekyll-theme-journaloid)
+[옥수박](https://github.com/oxmhpark)의 인터넷 바로가기 모음.
