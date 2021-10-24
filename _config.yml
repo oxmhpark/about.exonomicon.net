@@ -3,13 +3,13 @@
 #
 
 # Name of your site (displayed in the header)
-name: links.exonomicon.net
+name: about.exonomicon.net
 
 # Name of the author
 author: 옥수박
 
 # Short bio or description (displayed in the header)
-description: SITE DESCRIPTION HERE
+description: ""
 
 # URL of your avatar or profile pic (you could use your GitHub profile pic)
 avatar: 
@@ -19,7 +19,7 @@ avatar:
 #
 
 format:
-  date: "%Y.%m.%d."
+  date: ""
 
 # Includes an icon in the footer for each username you enter
 footer-links:
@@ -41,7 +41,7 @@ footer-links:
 
 # Utterances comment system
 utterances:
-  repo: links.exonomicon.net
+  repo: about.exonomicon.net
   issue-term: pathname
   label: comment-utterances
   branch: main
@@ -51,8 +51,8 @@ google_analytics:
 
 # Your website URL (e.g. http://amitmerchant1990.github.io or http://www.amitmerchant.com)
 # Used for Sitemap.xml and your RSS feed
-url: http://links.exonomicon.net
-enforce_ssl: https://links.exonomicon.net
+url: http://about.exonomicon.net
+enforce_ssl: https://about.exonomicon.net
 
 # If you're hosting your site at a Project repository on GitHub pages
 # (http://yourusername.github.io/repository-name)
